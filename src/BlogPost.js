@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-
+import Comment from './Comments.js'
 
 export default class BlogPost extends Component {
   render() {
